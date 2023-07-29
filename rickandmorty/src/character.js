@@ -1,6 +1,6 @@
 import {useQuery,gql} from 'apollo/client';
 import { useState } from 'react';
-import {RandomCharacter} from './randomCharacters';
+import {RandomCharacter} from 'randomCharacters';
 //import { gql } from '@apollo/client';
 import './App.css'
 
